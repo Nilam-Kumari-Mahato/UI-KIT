@@ -2,7 +2,8 @@
 
 A clean, customizable, and reusable **UI component library** built with **React** and **Tailwind CSS**. Perfect for scaling UI development in web projects, freelance work, or rapid prototyping.
 
-![Banner](./assets/demo1.png)(./assets/demo2.png)
+![Banner](./assets/demo1.png)
+![](./assets/demo2.png)
 
 ---
 
