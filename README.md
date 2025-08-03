@@ -1,12 +1,38 @@
-# React + Vite
+# 🔧 Reusable React UI Kit
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A clean, customizable, and reusable **UI component library** built with **React** and **Tailwind CSS**. Perfect for scaling UI development in web projects, freelance work, or rapid prototyping.
 
-Currently, two official plugins are available:
+![Banner](.src/assets/demo1.png)
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+---
 
-## Expanding the ESLint configuration
+## ✨ Features
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+- ✅ 7+ reusable components
+- 🌈 Styled with Tailwind CSS
+- 💡 Easy to plug into any React project
+- 🎨 Responsive and accessible
+- 📦 Ready for open-source use or npm packaging
+
+---
+
+## 🧩 Components Included
+
+| Component   | Description                          |
+|-------------|--------------------------------------|
+| `Button`    | Multiple variants and sizes          |
+| `Modal`     | Reusable pop-up with customizable content |
+| `Checkbox`  | Styled checkbox with inline label    |
+| `Spinner`   | Configurable loader (speed/duration) |
+| `Input`     | Clean form input field               |
+| `Card`      | Generic card container               |
+| `Navbar`    | Simple top navigation bar            |
+
+
+---
+
+## 🚀 Demo
+
+📂 **GitHub Repo:** [https://github.com/Nilam-Kumari-Mahato/UI-KIT.git]
+
+---
